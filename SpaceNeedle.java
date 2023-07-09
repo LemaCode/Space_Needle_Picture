@@ -1,8 +1,6 @@
 // Name: Manasse Bosango
 // Reason: To make use of of nested for loop and avoid redundancy in coding
 
-// The logic behind this code comes from https://youtu.be/TyjEpru8Am4
-
 /**
  * It's a class that draws a picture of a space needle
  */
